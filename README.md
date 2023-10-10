@@ -29,8 +29,12 @@ Throughout this assignment, we encountered challenges related to data modeling, 
 
 For a detailed account of the challenges faced and the key learnings, please refer to the Challenges and Learnings section.
 
-## Assumptions and Limitations
-Some assumptions were made during the design of the data model and ETL process. These assumptions impact the solution's scope and implementation. Additionally, certain limitations exist in the current implementation.
+## Assumptions 
+Some assumptions were made during the design of the data model and ETL process.
+
+
+## Trade-Offs and Limitations
+These assumptions impact the solution's scope and implementation. Additionally, certain limitations exist in the current implementation.
 
 For a list of assumptions made and the limitations of the assignment, please refer to the Assumptions and Limitations section.
 
