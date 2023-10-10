@@ -1,4 +1,4 @@
-# Kambi Grill Data Warehouse Assignment
+# Assignment for Data Engineer - Data Lake job position at Kambi
 
 
 ## Introduction
