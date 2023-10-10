@@ -1,5 +1,5 @@
 # Kambi Grill Data Warehouse Assignment
-Assignment for Data Engineering position at Kambi
+
 
 ## Introduction
 This assignment focuses on designing a data warehouse for Kambi Grill, a restaurant that operates a member's only grill. The data warehouse is designed to analyze various aspects related to orders, customers, campaigns, and items to improve business decision-making.
