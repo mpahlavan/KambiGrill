@@ -27,16 +27,15 @@ For detailed steps and code related to the ETL process, please refer to the ETL 
 ## Challenges and Learnings
 Throughout this assignment, we encountered challenges related to data modeling, ETL process efficiency, and SQL query optimization. Overcoming these challenges provided valuable learnings in designing effective data warehouses and writing efficient SQL queries.
 
-For a detailed account of the challenges faced and the key learnings, please refer to the Challenges and Learnings section.
 
 ## Assumptions 
-Some assumptions were made during the design of the data model and ETL process.
+The schema assumes a one-to-many relationship between the fact table and the dimensions, reflecting real-world relationships.
+It's assumed that appropriate data cleansing, transformation, and loading processes will be applied to maintain data quality and consistency in the warehouse.
 
 
 ## Trade-Offs and Limitations
-These assumptions impact the solution's scope and implementation. Additionally, certain limitations exist in the current implementation.
+These assumptions impact the solution's scope and implementation. I consider one fact table to optimize and not complex the model.
 
-For a list of assumptions made and the limitations of the assignment, please refer to the Assumptions and Limitations section.
 
 ## Contact Information
 For any inquiries or feedback regarding this assignment, please contact:
